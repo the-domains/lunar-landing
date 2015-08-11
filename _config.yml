@@ -1,0 +1,27 @@
+name: Lunar Landing
+favicon: null
+layout_spectrum: 0.36384
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#eceff0'
+    - '#00c0df'
+    - '#4d4d4d'
+    - '#ff83cc'
+    - '#007abd'
+  brandStrength: 0
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
+purpose: []
