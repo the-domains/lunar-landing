@@ -1,17 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title><![CDATA[Lunar Landing]]></title>
         <description><![CDATA[Lunar Landing]]></description>
         <link>https://thegrid.ai/lunar-landing/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 06 Oct 2015 23:18:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Oct 2015 03:11:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lunar-landing/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[This is my first H1. Should be the title. ]]></title>
-            <description><![CDATA[<article><h1>This is my first H1. Should be the title. </h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3ba5942-b187-4d4f-abae-8cd0a077adf0.jpg"></article>]]></description>
-            <guid isPermaLink="false">63395d5e-c3fb-4bf6-bee1-a97e97b26402</guid>
-            <pubDate>Tue, 06 Oct 2015 23:17:48 GMT</pubDate>
+            <title><![CDATA[Getting Started on The Grid]]></title>
+            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Click the pencil icon in the bottom left to read more...</p><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif"></article>]]></description>
+            <link>https://thegrid.ai/lunar-landing/getting-started-on-the-grid/index.html</link>
+            <guid isPermaLink="false">a4de5635-8d39-4b12-a819-67db4e3c0b24</guid>
+            <pubDate>Fri, 09 Oct 2015 16:35:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
