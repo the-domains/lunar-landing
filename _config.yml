@@ -23,6 +23,6 @@ color:
     - '#007abd'
   brandStrength: 0.5625
   lightness: 0.5
-  saturation: 0.5
+  saturation: 0.75
   rhythmicContrast: 0.5
 purpose: []
