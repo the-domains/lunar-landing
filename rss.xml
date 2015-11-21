@@ -4,8 +4,15 @@
         <description><![CDATA[Lunar Landing]]></description>
         <link>https://thegrid.ai/lunar-landing/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 21 Nov 2015 20:12:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Nov 2015 20:13:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lunar-landing/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Update - October]]></title>
+            <description><![CDATA[<article><h1>Update - October</h1><p>This is text. And more text.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/88eeef26-abae-4981-bc21-866ddf9ebd08.png"></article>]]></description>
+            <link>https://thegrid.ai/lunar-landing/update-october/index.html</link>
+            <guid isPermaLink="false">a40ad307-81eb-406b-95a3-17ff255832f6</guid>
+            <pubDate>Sat, 21 Nov 2015 20:12:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/244b65e9-ec98-401b-a43e-56c7eda7c46b.jpg">]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Even the gloomiest of days can produce a glimmer of magic. Moments like these are a refreshing reminder of the ups and downs of life, but that all the good moments ultimately outweigh the bad. 🌈</h1><img src="https://igcdn-photos-c-a.akamaihd.net/hphotos-ak-xaf1/t51.2885-15/e35/11939698_504211616420746_777534811_n.jpg"></article>]]></description>
             <link>https://instagram.com/p/7F4N59HzG5/?tagged=yellowstone</link>
             <guid isPermaLink="false">10b90a39-c75a-47c0-8092-87413a0524b2</guid>
-            <pubDate>Fri, 25 Sep 2015 11:49:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Grand Prismatic Hotspring, Yellowstone National Park!! #grandprismaticspring #yellowstone #yellowstonenationalpark #geothermal #earthisawesome#colorfulworld #americathebeautiful #TheMorgansRoadtrip #greenstonephotography #day55]]></title>
-            <description><![CDATA[<article><h1>Grand Prismatic Hotspring, Yellowstone National Park!! #grandprismaticspring #yellowstone #yellowstonenationalpark #geothermal #earthisawesome#colorfulworld #americathebeautiful #TheMorgansRoadtrip #greenstonephotography #day55</h1><img src="https://scontent.cdninstagram.com/hphotos-xaf1/t51.2885-15/s750x750/sh0.08/e35/11371197_808774239243301_212783849_n.jpg"></article>]]></description>
-            <link>https://instagram.com/p/7GDVQHgRDa/?tagged=yellowstone</link>
-            <guid isPermaLink="false">fb845832-7620-4f09-a971-8b69da136cff</guid>
             <pubDate>Fri, 25 Sep 2015 11:49:35 GMT</pubDate>
         </item>
     </channel>
