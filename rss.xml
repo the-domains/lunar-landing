@@ -4,7 +4,7 @@
         <description><![CDATA[Lunar Landing]]></description>
         <link>https://thegrid.ai/lunar-landing/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 21 Nov 2015 20:13:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jan 2016 17:08:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lunar-landing/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -15,7 +15,7 @@
         </item>
         <item>
             <title><![CDATA[Update - October]]></title>
-            <description><![CDATA[<article><h1>Update - October</h1><p>This is text. And more text.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/88eeef26-abae-4981-bc21-866ddf9ebd08.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Update - October</h1><p>This is text. And more text.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c830eabd6560056e8f57ea345421b891ba084b05.png"></article>]]></description>
             <link>https://thegrid.ai/lunar-landing/update-october/index.html</link>
             <guid isPermaLink="false">a40ad307-81eb-406b-95a3-17ff255832f6</guid>
             <pubDate>Sat, 21 Nov 2015 20:12:14 GMT</pubDate>
@@ -29,14 +29,14 @@
         </item>
         <item>
             <title><![CDATA[Testing the new editor]]></title>
-            <description><![CDATA[<h1>Testing the new editor</h1>]]></description>
+            <description><![CDATA[<article><h1>Testing the new editor</h1><p>This is my post with the new editor</p></article>]]></description>
             <link>https://thegrid.ai/lunar-landing/testing-the-new-editor/index.html</link>
             <guid isPermaLink="false">ea68c98e-656c-499f-9600-88c4a05188ac</guid>
-            <pubDate>Thu, 19 Nov 2015 13:34:11 GMT</pubDate>
+            <pubDate>Tue, 05 Jan 2016 17:08:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Austin bat watch ]]></title>
-            <description><![CDATA[<article><h1>Austin bat watch </h1><p>Austin bat watch</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0ec25e32-aac3-4322-82ef-e2914ce5da56.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Austin bat watch </h1><p>Austin bat watch</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1320135c6ca39d56a775a2361ab9511b11cfc75c.png"></article>]]></description>
             <link>urn:uuid:47632909-ce0d-4c1e-9fdf-c0db1bd43005</link>
             <guid isPermaLink="false">1bc3ecf4-6668-4516-a1ab-3deda3091a61</guid>
             <pubDate>Wed, 04 Nov 2015 21:57:43 GMT</pubDate>
