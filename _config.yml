@@ -2,6 +2,7 @@ name: Lunar Landing
 favicon: null
 layout_spectrum: 0.33978
 typography_spectrum: 0.8564
+title: Where does this go?
 cta:
   domain: null
   bucket: null
