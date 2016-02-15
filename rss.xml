@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Lunar Landing]]></title>
-        <description><![CDATA[Lunar Landing]]></description>
+        <title><![CDATA[Where does this go?]]></title>
+        <description><![CDATA[Where does this go?]]></description>
         <link>https://thegrid.ai/lunar-landing/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Jan 2016 17:08:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Feb 2016 18:15:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lunar-landing/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>this is my new post for global publishing</p>]]></description>
+            <link>https://thegrid.ai/lunar-landing/37e7968f-e319-4e7b-821d-2021e4629380/index.html</link>
+            <guid isPermaLink="false">37e7968f-e319-4e7b-821d-2021e4629380</guid>
+            <pubDate>Mon, 15 Feb 2016 18:15:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ea9931cd-3a8b-4edc-bbfb-ba1911b1f216.jpg">]]></description>
@@ -43,7 +50,7 @@
         </item>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
-            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Click the pencil icon in the bottom left to read more...</p><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif"></article>]]></description>
+            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Click the pencil icon in the bottom left to read more...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e90a2730a5053b42a40fab331e940db36af0d838.gif"></article>]]></description>
             <link>https://thegrid.ai/lunar-landing/getting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">a4de5635-8d39-4b12-a819-67db4e3c0b24</guid>
             <pubDate>Fri, 09 Oct 2015 16:35:02 GMT</pubDate>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/749d60d5-5a25-4c28-bd88-951ff703d843.jpg">]]></description>
             <link>https://thegrid.ai/lunar-landing/164f28a9-5f65-43f9-a0b6-5fe6af991d50/index.html</link>
             <guid isPermaLink="false">164f28a9-5f65-43f9-a0b6-5fe6af991d50</guid>
-            <pubDate>Fri, 25 Sep 2015 11:50:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/707521d0-3659-4c79-af34-7d82d2d63055.jpg">]]></description>
-            <link>https://thegrid.ai/lunar-landing/98671365-4677-4ac1-a280-021120e750f5/index.html</link>
-            <guid isPermaLink="false">98671365-4677-4ac1-a280-021120e750f5</guid>
             <pubDate>Fri, 25 Sep 2015 11:50:03 GMT</pubDate>
         </item>
     </channel>
